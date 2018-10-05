@@ -99,7 +99,7 @@ div.itemi {
     align-items: center;
     justify-content: center;
     grid-column: 1 / 2;
-    grid-row: 2 / 4;
+    grid-row: 2 / 5;
     padding: 2%;
 }
 
