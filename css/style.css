@@ -1,13 +1,8 @@
-/* source: https://www.w3schools.com/css/css_navbar.asp */
+
 
 h1, h2, h3, h4, h5, h6 {
     color: black;
     font-family: 'Amatic SC', cursive;
-}
-
-body {
-    font-family: 'Josefin Sans', sans-serif;
-
 }
 
 body.contact {
@@ -45,6 +40,7 @@ div.background {
     background-color: #999999;
 }
 
+/* source: https://www.w3schools.com/css/css_navbar.asp */
 
 nav ul {
     list-style-type: none;
@@ -76,7 +72,7 @@ nav li a:hover {
 div.container
 { display: grid;
   grid-template-columns: 1fr 10% 1fr 10%;
-  grid-template-rows: 10% 10% auto auto 20%;
+  grid-template-rows: 10% 10% auto auto 10%;
 }
 
 div.itemh {
