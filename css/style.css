@@ -12,6 +12,7 @@ body {
 
 body.contact {
     background-image: url('../images/background.jpeg');
+    background-size: cover;
 }
 
 h1.contact {
