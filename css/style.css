@@ -121,7 +121,6 @@ h2.grid-heading2 {
 p.grid-p {
     grid-column: 3 / 4;
     grid-row: 3 / 4;
-    place-self: top;
     text-align: justify;
     padding: 2%;
     
